@@ -1,6 +1,4 @@
-# QAP1_SDAT
-
-Last updated: March 21, 2023
+Last updated: March 21, 2023 @ 9:00
 
 Created for: QAP 1 Assessment for Software Design Architecture Testing, hosted by Keyin College
 
